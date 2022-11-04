@@ -22,7 +22,7 @@ export const products = [
     id: 3,
     name: 'Redmi 10',
     price: 1299,
-    description: ''
+    description: 'A phone with a best storage'
   }
 ];
 

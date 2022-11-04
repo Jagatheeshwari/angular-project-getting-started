@@ -8,20 +8,20 @@ export interface Product {
 export const products = [
   {
     id: 1,
-    name: 'Phone XL',
-    price: 799,
+    name: 'Redmi 10pro',
+    price: 1799,
     description: 'A large phone with one of the best screens'
   },
   {
     id: 2,
-    name: 'Phone Mini',
-    price: 699,
+    name: 'Redmi 10s',
+    price: 1699,
     description: 'A great phone with one of the best cameras'
   },
   {
     id: 3,
-    name: 'Phone Standard',
-    price: 299,
+    name: 'Redmi 10',
+    price: 1299,
     description: ''
   }
 ];
